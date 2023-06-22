@@ -1,6 +1,6 @@
 # Aprendiendo HTML5
 
-HTML es el lenguaje de marcado que define el contenido que se ve a través del navegador web.
+HTML es un lenguaje de marcado de texto que define el contenido que se ve a través del navegador web.
 
 ## Software recomendados
 - Navegador web: Google Chrome Mozilla Firefox
@@ -51,6 +51,7 @@ HTML es el lenguaje de marcado que define el contenido que se ve a través del n
         <li class="items"><a href="">Items 4</a></li>
     </ul>
   ```
+  ## Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/
   - Para saber y aprender los atajos de Visual Studio Code en Windows, ver el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf

@@ -1,10 +1,10 @@
 # HTML5
 
-HTML es el lenguaje de marcado que define el contenido que se ve a través del navegador web.
+HTML es un lenguaje de marcado de texto que define el contenido que se ve a través del navegador web.
 
 ## Software recomendados
-- Navegador web: Google Chrome Mozilla Firefox
-- Editor de código: Atom, Sublime Text, Visual Studio Code, VIM
+- Navegador web: Google Chrome · Mozilla Firefox
+- Editor de código: Atom · Sublime Text · Visual Studio Code · VIM
 
 ## Configuración inicial para crear un HTML
 - Crear un nuevo archivo llamado index.html en la ruta principal
@@ -146,6 +146,33 @@ Así como importamos un script, podemos escribir código JavaScript, dentro de l
 
     window.alert(`El resultado de las 2 variables es: ${aux}`)
 </script>
+```
+
+## Comentarios
+
+Para escribir comentarios en HTLM, lo hacemos de la siguiente manera.
+
+```html
+<!-- Esto es un comentario -->
+<!--
+    Esto es un comentario
+-->
+```
+
+Usando "<" este signo para abrir, luego usamos "!" y con dos "--" tenemos la estructura inicial de comentario en HTML, para cerrarlo, finalizamos con 2 "--" y ">", de esta manera haremos comentarios.
+
+Para colocar comentarios En JavaScript hay 2 maneras, una de línea y la otra un bloque.
+
+```js
+// Comentario de tipo línea
+
+/* Comentario de tipo bloque */
+```
+
+En css solo se usa comentarios tipo bloque
+
+```css
+/* Esto es un comentario en CSS */
 ```
 
 # Documentación

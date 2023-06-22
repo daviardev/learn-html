@@ -52,14 +52,6 @@ HTML es el lenguaje de marcado que define el contenido que se ve a través del n
     </ul>
   ```
 
-  - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/
-  - Para saber y aprender los atajos de Visual Studio Code en Windows, ver el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-  - Para el caso de Mac, mirar el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-  - Para el caso de Linux, mirar el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
-
-  - Documentación de HTML de Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
-  - Documentación para las etiquetas de HTML y sus atributos: https://htmlreference.io/
-
 ## Etiquetas (Abre y cierre)
 Las etiquetas dentro del HTML, es algo que se va a estar usando la mayoría del tiempo, ya que con estas es que definimos el cuerpo del HTML, existen muchas etiquetas de HTML, dentro de la sección de recursos, se encuentra un enlace para la documentación de las etiquetas de HTML.
 
@@ -70,7 +62,7 @@ Las etiquetas dentro del HTML, es algo que se va a estar usando la mayoría del 
 </> (Etiqueta que indica para cerrar)
 ```
 
-No todas las etiquetas tienen abrir y cerrar, hay algunas que siki son de abrir, como las etiquetas tipo meta, entre otras.
+No todas las etiquetas tienen abrir y cerrar, hay algunas que sí son de abrir, como las etiquetas tipo meta, entre otras.
 
 ```html
 <meta>
@@ -103,7 +95,7 @@ Dentro de la etiqueta "body", se encuentra todo el contenido, estructura y maque
 </html>
 ```
 
-Podemos observar que todo está envuelto por la etiqueta "html", vemos que esta por defecto se le agrega un atriburto llamado "lang" Language: el cual es el idioma que toma como base la página.
+Podemos observar que todo está envuelto por la etiqueta "html", vemos que esta por defecto se le agrega un atributo llamado "lang" Language: el cual es el idioma que toma como base la página.
 
 ### Como puedo importar scripts
 
@@ -155,3 +147,13 @@ Así como importamos un script, podemos escribir código JavaScript, dentro de l
     window.alert(`El resultado de las 2 variables es: ${aux}`)
 </script>
 ```
+
+# Documentación
+
+  - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/
+  - Para saber y aprender los atajos de Visual Studio Code en Windows, ver el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+  - Para el caso de Mac, mirar el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+  - Para el caso de Linux, mirar el siguiente recurso: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+  - Documentación de HTML de Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
+  - Documentación para las etiquetas de HTML y sus atributos: https://htmlreference.io/

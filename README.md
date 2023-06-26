@@ -264,6 +264,40 @@ Dentro de un sitio web, es importante que en una página haya solo un h1
 <small>texto pequeño</small>
 ```
 
+## Etiquetas de texto semánticas
+
+Algunas de las etiquetas de texto semánticas son:
+
+- strong
+
+```html
+<strong>negrita</strong>
+```
+
+- em
+
+```html
+<em>itálica</em>
+```
+
+Si usamos las etiquetas, nos daremos cuenta que son igual al usar un small y una etiqueta tipo i. La diferencia es que las etiquetas tipo semántica, son etiquetas importantes para el navegador.
+
+## Saltos de línea
+
+Para hacer un salto de línea, usamos la etiqueta br, esta etiqueta nos permite hacer un salto de línea, también tenemos otra etiqueta que se encarga de separar secciones, es la etiqueta hr
+
+- br
+
+```html
+<br>
+```
+
+- hr
+
+```html
+<hr>
+```
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/

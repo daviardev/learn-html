@@ -200,6 +200,70 @@ Hay otra etiqueta para el SEO de las páginas, esto se verá reflejado en la bú
   <meta name='description' content='Aquí irá una breve descripción del título del sitio web'>
 ```
 
+## Encabezados
+
+Las etiquetas de encabezado, son 6, y cada una de ellas tiene un tamaño distinto.
+
+- h1: Es el tamaño de encabezado más grande, se usa para títulos principales.
+
+- h2: Es el tamaño de encabezado un poco menos grande que el h1, se usa para títulos de índices.
+
+- h3: Es el tamaño de encabezado un poco menos grande que el h2, se usa para subtemas.
+
+- h4: Este tamaño de encabezado es un poco más pequeño que el h1m y se usa para textos poco pequeños.
+
+- h5: Este tamaño de encabezado està al nivel de un párrafo.
+
+- h6: Este tamaño de encabezado es el más pequeño que todos.
+
+### Cosas a tener en cuenta
+
+Dentro de un sitio web, es importante que en una página haya solo un h1
+
+## Etiquetas básicas de texto
+
+- negrita
+
+```html
+<strong>negrita</strong>
+```
+
+- itálica
+
+```html
+<i>itálica</i>
+```
+
+- subrrayado
+
+```html
+<u>subrrayado</u>
+```
+
+- sup índice
+
+```html
+<p>e=mc<sup>2</sup></p>
+```
+
+- sub índice
+
+```html
+<p>H<sub>2</sub>O</p>
+```
+
+- texto marcado
+
+```html
+<mark>marcatexto</mark>
+```
+
+- texto pequeño
+
+```html
+<small>texto pequeño</small>
+```
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/

@@ -182,6 +182,10 @@ Podemos usar cualquier idioma e incluso especificar el país si es necesario o n
 
 Para especificar el país, debemos colocar el dominio del país, por ejemplo: si la página es de Colombia, debemos usar es-CO, si es Mexico, es-MX, en caso que sea Chile, debemos usar es-CL etc...
 
+## Etiqueta meta charset
+
+Esta etiqueta se encarga de interpretar símbolos y caracteres del especiales, como tíldes o palabras de otros idiomas.
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/
@@ -191,3 +195,4 @@ Para especificar el país, debemos colocar el dominio del país, por ejemplo: si
 
   - Documentación de HTML de Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
   - Documentación para las etiquetas de HTML y sus atributos: https://htmlreference.io/
+  - Documentación para los carácteres especiales en html: https://desarrolloweb.com/articulos/11.php

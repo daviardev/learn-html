@@ -175,6 +175,13 @@ En css solo se usa comentarios tipo bloque
 /* Esto es un comentario en CSS */
 ```
 
+## Atributo lang de la etiqueta html
+
+En el atributo lang de la etiqueta html, podemos colocar el idioma que va a tener por defecto la página.
+Podemos usar cualquier idioma e incluso especificar el país si es necesario o no.
+
+Para especificar el país, debemos colocar el dominio del país, por ejemplo: si la página es de Colombia, debemos usar es-CO, si es Mexico, es-MX, en caso que sea Chile, debemos usar es-CL etc...
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/

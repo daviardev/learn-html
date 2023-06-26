@@ -186,6 +186,20 @@ Para especificar el país, debemos colocar el dominio del país, por ejemplo: si
 
 Esta etiqueta se encarga de interpretar símbolos y caracteres del especiales, como tíldes o palabras de otros idiomas.
 
+## Etiqueta title y meta description
+
+La etiqueta title, asigna el título de una página web, esto para que cuando las personas hagan la búsqueda del sitio web, como resultado les aparecerá el título de la página, para añadir un título y para añadir el título se hace de la siguiente manera.
+
+```html
+  <title>Este es el título de la página</title>
+```
+
+Hay otra etiqueta para el SEO de las páginas, esto se verá reflejado en la búsqueda de tu sitio web. La etiqueta de la que hablo es la etiqueta description, y para usarla hay que hacer lo siguiente.
+
+```html
+  <meta name='description' content='Aquí irá una breve descripción del título del sitio web'>
+```
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/

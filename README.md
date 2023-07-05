@@ -298,6 +298,34 @@ Para hacer un salto de línea, usamos la etiqueta br, esta etiqueta nos permite 
 <hr>
 ```
 
+## Etiqueta de formateo
+
+```html
+<pre>
+  <p>
+    - La etiqueta pre, sirve para preformatear texto
+  </p>
+</pre>
+```
+
+```html
+<pre>
+  <code>
+      import App from './App'
+
+      const App = () => {
+        return (
+          <>
+            <h1>App</h1>
+          </>
+        )
+      }
+
+      export default App
+  </code>
+</pre>
+```
+
 # Documentación
 
   - Para aprender más acerca de la "Abreviación Emmet" mirar este recurso: https://emmet.io/

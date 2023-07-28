@@ -1,0 +1,31 @@
+{
+  "name": "learn-html",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Learn HTML5 and CSS3 · jonmircha",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviardev/learn-html.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "HTML",
+    "CSS"
+  ],
+  "author": "daviardev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviardev/learn-html/issues"
+  },
+  "homepage": "https://github.com/daviardev/learn-html#readme",
+  "devDependencies": {
+    "vite": "^4.4.7"
+  }
+}
